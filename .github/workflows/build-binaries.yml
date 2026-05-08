@@ -74,6 +74,6 @@ jobs:
             Automated Subsonic Player release for `${{ github.ref }}`.
             Build run: ${{ github.run_id }}
           artifacts: |
-            subsonic-player-ubuntu-latest,
-            subsonic-player-macos-latest,
+            subsonic-player-ubuntu-latest
+            subsonic-player-macos-latest
             subsonic-player-windows-latest
